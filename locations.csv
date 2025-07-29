@@ -1,0 +1,395 @@
+"location_id";"location_code";"location_name";"activity_type_id"
+1;"St. Vincent Clinic";"St. Vincent Clinic";1
+2;"Riley OR";"Riley OR";2
+3;"Riley OR";"Riley OR";2
+4;"ROC OR";"ROC OR";2
+5;"ESK OR";"ESK OR";2
+6;"ROC Clinic";"ROC Clinic";1
+7;"ESK OR";"ESK OR";2
+8;"OFF";"OFF";3
+9;"OFF";"OFF";3
+10;"ROC";"ROC";4
+11;"Admin";"Admin";5
+12;"OFF";"OFF";3
+13;"ROC Clinic";"ROC Clinic";1
+14;"NRSC OR";"NRSC OR";2
+15;"NRSC OR";"NRSC OR";4
+16;"IUW Clinic";"IUW Clinic";1
+17;"IUN OR";"IUN OR";2
+18;"IUN OR";"IUN OR";2
+19;"FW Clinic";"FW Clinic";1
+20;"ROC Clinic";"ROC Clinic";1
+21;"Riley OR";"Riley OR";2
+22;"Riley OR";"Riley OR";2
+23;"IUN Clinic";"IUN Clinic";1
+24;"ROC";"ROC";4
+25;"Admin";"Admin";5
+26;"ROC Clinic";"ROC Clinic";1
+27;"VV Clinic";"VV Clinic";1
+28;"OFF";"OFF";3
+29;"FW Clinic";"FW Clinic";1
+30;"ROC Clinic";"ROC Clinic";1
+31;"Riley OR";"Riley OR";2
+32;"Riley OR";"Riley OR";2
+33;"ROC OR";"ROC OR";2
+34;"ROC OR";"ROC OR";2
+35;"ROC Clinic";"ROC Clinic";1
+36;"UNI OR";"UNI OR";2
+37;"ESK OR";"ESK OR";2
+38;"OFF";"OFF";3
+39;"ROC Clinic";"ROC Clinic";1
+40;"Admin";"Admin";5
+41;"OFF";"OFF";3
+42;"OFF";"OFF";3
+43;"OFF";"OFF";3
+44;"IUN OR";"IUN OR";2
+45;"IUW OR";"IUW OR";2
+46;"IUW Clinic";"IUW Clinic";1
+47;"Riley OR";"Riley OR";2
+48;"ROC OR";"ROC OR";2
+49;"Riley OR";"Riley OR";2
+50;"Research";"Research";6
+51;"Riley OR";"Riley OR";2
+52;"OFF";"OFF";3
+53;"ROC Clinic";"ROC Clinic";1
+54;"IUN Clinic";"IUN Clinic";1
+55;"IUN Clinic";"IUN Clinic";1
+56;"Saxony Clinic";"Saxony Clinic";1
+57;"ROC Clinic";"ROC Clinic";1
+58;"IUN Clinic";"IUN Clinic";1
+59;"ROC Clinic";"ROC Clinic";1
+60;"IUN Clinic";"IUN Clinic";1
+61;"NRSC OR";"NRSC OR";2
+62;"RILEY OR";"RILEY OR";2
+63;"ROC OR";"ROC OR";2
+64;"ESK OR";"ESK OR";2
+65;"Research";"Research";6
+66;"UNI OR";"UNI OR";2
+67;"OFF";"OFF";3
+68;"ROC Clinic";"ROC Clinic";1
+69;"OFF";"OFF";3
+70;"IUN";"IUN";4
+71;"Admin";"Admin";5
+72;"OFF";"OFF";3
+73;"ROC Clinic";"ROC Clinic";1
+74;"IUN Clinic";"IUN Clinic";1
+75;"ROC Clinic";"ROC Clinic";1
+76;"ROC OR";"ROC OR";2
+77;"Riley OR";"Riley OR";2
+78;"ROC Clinic";"ROC Clinic";1
+79;"Evansville Clinic";"Evansville Clinic";1
+80;"Terre Haute Clinic";"Terre Haute Clinic";1
+81;"IUN Clinic";"IUN Clinic";1
+82;"ROC Clinic";"ROC Clinic";1
+83;"IUN Clinic";"IUN Clinic";1
+84;"IUN OR";"IUN OR";2
+85;"IUN";"IUN";4
+86;"MM Clinic";"MM Clinic";1
+87;"VV Clinic";"VV Clinic";1
+88;"MM Clinic";"MM Clinic";1
+89;"Terre Haute Clinic";"Terre Haute Clinic";1
+90;"ROC Clinic";"ROC Clinic";1
+91;"Bloomington Clinic";"Bloomington Clinic";1
+92;"Riley OR";"Riley OR";2
+93;"Adult SB Clinic";"Adult SB Clinic";1
+94;"ROC OR";"ROC OR";2
+95;"Research";"Research";6
+96;"Research";"Research";6
+97;"Adult SB Clinic";"Adult SB Clinic";1
+98;"Lowell Clinic";"Lowell Clinic";1
+99;"Main OR";"Main OR";2
+100;"OFF";"OFF";3
+101;"MM Clinic";"MM Clinic";1
+102;"STF Clinic";"STF Clinic";1
+103;"Bloomington Clinic";"Bloomington Clinic";1
+104;"Lowell Clinic";"Lowell Clinic";1
+105;"ROC Adult Clinic";"ROC Adult Clinic";1
+106;"ROC OR";"ROC OR";2
+107;"Comm OR / Comm Clinic";"Comm OR / Comm Clinic";1
+108;"IUN Clinic";"IUN Clinic";1
+109;"Riley OR";"Riley OR";2
+110;"ROC OR";"ROC OR";2
+111;"Research";"Research";6
+112;"IUN OR";"IUN OR";2
+113;"IUN OR";"IUN OR";2
+114;"ROC OR";"ROC OR";2
+115;"ROC Clinic";"ROC Clinic";1
+116;"IUN Clinic";"IUN Clinic";1
+117;"MM Clinic";"MM Clinic";1
+118;"ROC Clinic";"ROC Clinic";1
+119;"ROC Clinic";"ROC Clinic";1
+120;"MM Clinic";"MM Clinic";1
+121;"ROC Clinic";"ROC Clinic";1
+122;"NRSC OR";"NRSC OR";2
+123;"Riley OR";"Riley OR";2
+124;"ROC Clinic";"ROC Clinic";1
+125;"FW Clinic";"FW Clinic";1
+126;"ROC Clinic";"ROC Clinic";1
+127;"Research";"Research";6
+128;"UNI Gender Clinic";"UNI Gender Clinic";1
+129;"IUN OR";"IUN OR";2
+130;"IUN Clinic";"IUN Clinic";1
+131;"FW Clinic";"FW Clinic";1
+132;"MM Clinic";"MM Clinic";1
+133;"FW Clinic";"FW Clinic";1
+134;"VV Clinic";"VV Clinic";1
+135;"MM Clinic";"MM Clinic";1
+136;"IUN OR";"IUN OR";2
+137;"Comm OR / Comm Clinic";"Comm OR / Comm Clinic";1
+138;"ROC Clinic / Admin";"ROC Clinic / Admin";1
+139;"Research";"Research";6
+140;"Research";"Research";6
+141;"Riley OR";"Riley OR";2
+142;"ROC OR";"ROC OR";2
+143;"IUN OR";"IUN OR";4
+144;"IUN OR";"IUN OR";4
+145;"ROC Clinic";"ROC Clinic";1
+146;"ROC Clinic";"ROC Clinic";1
+147;"ROC Clinic";"ROC Clinic";1
+148;"OFF";"OFF";3
+149;"OFF";"OFF";3
+150;"ROC Clinic";"ROC Clinic";1
+151;"IUN OR";"IUN OR";2
+152;"Riley OR";"Riley OR";2
+153;"Admin";"Admin";5
+154;"Riley OR";"Riley OR";2
+155;"ROC Clinic";"ROC Clinic";1
+156;"ROC OR";"ROC OR";2
+157;"UNI Gender Clinic";"UNI Gender Clinic";1
+158;"ROC Clinic";"ROC Clinic";1
+159;"Admin";"Admin";5
+160;"ROC";"ROC";4
+161;"Admin";"Admin";5
+162;"Education";"Education";4
+163;"Bloomington Clinic";"Bloomington Clinic";1
+164;"OFF";"OFF";3
+165;"Bloomington Clinic";"Bloomington Clinic";1
+166;"ROC OR";"ROC OR";2
+167;"ROC Clinic";"ROC Clinic";1
+168;"ROC OR";"ROC OR";2
+169;"Riley OR";"Riley OR";2
+170;"ESK Clinic";"ESK Clinic";1
+171;"Riley OR";"Riley OR";2
+172;"Admin";"Admin";5
+173;"ROC Clinic";"ROC Clinic";1
+174;"Admin";"Admin";5
+175;"ROC Clinic";"ROC Clinic";1
+176;"Admin";"Admin";5
+177;"VV Clinic";"VV Clinic";1
+178;"ROC Clinic";"ROC Clinic";1
+179;"OFF";"OFF";3
+180;"ESK Clinic";"ESK Clinic";1
+181;"IUN Clinic";"IUN Clinic";1
+182;"ROC Clinic";"ROC Clinic";1
+183;"ADMIN";"ADMIN";5
+184;"Riley OR";"Riley OR";2
+185;"Research";"Research";6
+186;"Riley OR";"Riley OR";2
+187;"ROC OR";"ROC OR";2
+188;"ROC Clinic";"ROC Clinic";1
+189;"Admin";"Admin";5
+190;"OFF";"OFF";3
+191;"ROC Clinic";"ROC Clinic";1
+192;"Saxony Clinic";"Saxony Clinic";1
+193;"OFF";"OFF";3
+194;"IUN Clinic";"IUN Clinic";1
+195;"ROC Clinic";"ROC Clinic";1
+196;"ROC OR";"ROC OR";2
+197;"ROC Clinic";"ROC Clinic";1
+198;"Riley OR";"Riley OR";2
+199;"Riley OR";"Riley OR";2
+200;"Research";"Research";6
+201;"Research";"Research";6
+202;"ROC OR";"ROC OR";2
+203;"IUN Clinic";"IUN Clinic";1
+204;"Admin";"Admin";5
+205;"IUN Clinic";"IUN Clinic";1
+206;"MFM Clinic";"MFM Clinic";1
+207;"ROC Clinic";"ROC Clinic";1
+208;"OFF";"OFF";3
+209;"VV Clinic";"VV Clinic";1
+210;"ROC Clinic";"ROC Clinic";1
+211;"Columbus Clinic";"Columbus Clinic";1
+212;"ROC Clinic";"ROC Clinic";1
+213;"Riley OR";"Riley OR";2
+214;"Riley OR";"Riley OR";2
+215;"Research";"Research";6
+216;"Research";"Research";6
+217;"ROC OR";"ROC OR";2
+218;"Admin";"Admin";5
+219;"Admin";"Admin";5
+220;"OFF";"OFF";3
+221;"Admin";"Admin";5
+222;"VV Clinic";"VV Clinic";1
+223;"Saxony Clinic";"Saxony Clinic";1
+224;"Columbus Clinic";"Columbus Clinic";1
+225;"ROC Clinic";"ROC Clinic";1
+226;"Riley OR";"Riley OR";2
+227;"St. Vincent Clinic";"St. Vincent Clinic";1
+228;"Lafayette Clinic";"Lafayette Clinic";1
+229;"ROC OR";"ROC OR";2
+230;"Riley OR";"Riley OR";2
+231;"Research";"Research";6
+232;"UNI OR";"UNI OR";2
+233;"ROC OR";"ROC OR";2
+234;"ROC Clinic";"ROC Clinic";1
+235;"ROC Clinic";"ROC Clinic";1
+236;"OFF";"OFF";3
+237;"IUN";"IUN";4
+238;"STF Clinic";"STF Clinic";1
+239;"Lafayette Clinic";"Lafayette Clinic";1
+240;"ROC Clinic";"ROC Clinic";1
+241;"ROC Clinic";"ROC Clinic";1
+242;"Saxony Clinic";"Saxony Clinic";1
+243;"FSC OR";"FSC OR";2
+244;"STF Clinic";"STF Clinic";1
+245;"VV Clinic";"VV Clinic";1
+246;"CAKUT Clinic";"CAKUT Clinic";1
+247;"ROC OR";"ROC OR";2
+248;"Riley OR";"Riley OR";2
+249;"Research";"Research";6
+250;"ROC Clinic";"ROC Clinic";1
+251;"Riley OR";"Riley OR";2
+252;"ROC OR";"ROC OR";2
+253;"Admin";"Admin";5
+254;"ROC";"ROC";4
+255;"Admin / Saxony Clinic";"Admin / Saxony Clinic";1
+256;"OFF";"OFF";3
+257;"Saxony Clinic";"Saxony Clinic";1
+258;"ROC Clinic";"ROC Clinic";1
+259;"ROC Clinic";"ROC Clinic";1
+260;"Riley OR";"Riley OR";2
+261;"STF OR";"STF OR";2
+262;"STF Clinic";"STF Clinic";1
+263;"ROC OR";"ROC OR";2
+264;"ROC Clinic";"ROC Clinic";1
+265;"ROC OR";"ROC OR";2
+266;"Research";"Research";6
+267;"UNI OR";"UNI OR";2
+268;"Riley OR";"Riley OR";2
+269;"Admin";"Admin";5
+270;"ROC Clinic";"ROC Clinic";1
+271;"IUN Clinic";"IUN Clinic";1
+272;"SF Clinic";"SF Clinic";1
+273;"Lafayette Clinic";"Lafayette Clinic";1
+274;"VV Clinic";"VV Clinic";1
+275;"ROC Clinic";"ROC Clinic";1
+276;"ROC OR";"ROC OR";2
+277;"STF OR";"STF OR";2
+278;"STF Clinic";"STF Clinic";1
+279;"Lafayette Clinic";"Lafayette Clinic";1
+280;"ROC Clinic";"ROC Clinic";1
+281;"Stone Clinic";"Stone Clinic";1
+282;"ROC OR";"ROC OR";2
+283;"Riley OR";"Riley OR";2
+284;"Riley OR";"Riley OR";2
+285;"Admin";"Admin";5
+286;"OFF";"OFF";3
+287;"ROC Clinic";"ROC Clinic";1
+288;"OFF";"OFF";3
+289;"Lafayette Clinic";"Lafayette Clinic";1
+290;"ROC Clinic";"ROC Clinic";1
+291;"ROC Clinic";"ROC Clinic";1
+292;"Riley OR";"Riley OR";2
+293;"STF OR";"STF OR";2
+294;"STF Clinic";"STF Clinic";1
+295;"ROC OR";"ROC OR";2
+296;"Riley OR";"Riley OR";2
+297;"ROC Clinic";"ROC Clinic";1
+298;"Research";"Research";6
+299;"UNI OR";"UNI OR";2
+300;"Lowell Clinic";"Lowell Clinic";1
+301;"ROC Clinic";"ROC Clinic";1
+302;"IUN";"IUN";4
+303;"IUN Clinic";"IUN Clinic";1
+304;"ROC Clinic";"ROC Clinic";1
+305;"OFF";"OFF";3
+306;"Lowell Clinic";"Lowell Clinic";1
+307;"ROC Clinic";"ROC Clinic";1
+308;"OFF";"OFF";3
+309;"FW Clinic";"FW Clinic";1
+310;"IUN OR";"IUN OR";2
+311;"ROC OR";"ROC OR";2
+312;"Research";"Research";6
+313;"ROC OR";"ROC OR";2
+314;"UNI OR";"UNI OR";4
+315;"ROC OR";"ROC OR";2
+316;"Riley OR";"Riley OR";2
+317;"FW Clinic";"FW Clinic";1
+318;"ROC Clinic";"ROC Clinic";1
+319;"FW Clinic";"FW Clinic";1
+320;"OFF";"OFF";3
+321;"ROC Clinic";"ROC Clinic";1
+322;"FW Clinic";"FW Clinic";1
+323;"OFF";"OFF";3
+324;"ROC OR";"ROC OR";2
+325;"ROC OR";"ROC OR";2
+326;"ROC Clinic";"ROC Clinic";1
+327;"Riley OR";"Riley OR";2
+328;"Research";"Research";6
+329;"ROC OR";"ROC OR";2
+330;"IUN OR 1200 - 1700";"IUN OR 1200 - 1700";4
+331;"OFF";"OFF";3
+332;"Saxony Clinic / Admin";"Saxony Clinic / Admin";1
+333;"Saxony Clinic / Admin";"Saxony Clinic / Admin";1
+334;"IUN Clinic";"IUN Clinic";1
+335;"OFF";"OFF";3
+336;"ROC Clinic";"ROC Clinic";1
+337;"ROC Clinic";"ROC Clinic";1
+338;"OFF";"OFF";3
+339;"NRSC OR";"NRSC OR";2
+340;"St. Vincent Clinic";"St. Vincent Clinic";1
+341;"ROC OR";"ROC OR";2
+342;"IUN Clinic";"IUN Clinic";1
+343;"Riley OR";"Riley OR";2
+344;"IUN OR";"IUN OR";2
+345;"ROC Clinic";"ROC Clinic";1
+346;"OFF";"OFF";3
+347;"ROC OR";"ROC OR";2
+348;"IUN Clinic";"IUN Clinic";1
+349;"ROC AM";"ROC AM";4
+350;"Eskenazi";"Eskenazi";4
+351;"ROC Clinic";"ROC Clinic";1
+352;"VV Clinic";"VV Clinic";1
+353;"ROC Clinic";"ROC Clinic";1
+354;"OFF";"OFF";3
+355;"ROC OR";"ROC OR";2
+356;"ROC OR";"ROC OR";2
+357;"IUN OR";"IUN OR";2
+358;"ROC Clinic";"ROC Clinic";1
+359;"Research";"Research";6
+360;"Riley OR";"Riley OR";2
+361;"IUN Clinic";"IUN Clinic";1
+362;"FW Clinic";"FW Clinic";1
+363;"ROC";"ROC";4
+364;"FW Clinic";"FW Clinic";1
+365;"VV Clinic";"VV Clinic";1
+366;"OFF";"OFF";3
+367;"OFF";"OFF";3
+368;"ROC Clinic";"ROC Clinic";1
+369;"OFF";"OFF";3
+370;"IUW OR";"IUW OR";2
+371;"ROC OR";"ROC OR";2
+372;"IUN OR";"IUN OR";2
+373;"IUN Clinic";"IUN Clinic";1
+374;"Riley OR";"Riley OR";2
+375;"Research";"Research";6
+376;"ROC OR";"ROC OR";2
+377;"ROC Clinic";"ROC Clinic";1
+378;"IUN Clinic";"IUN Clinic";1
+379;"Admin";"Admin";5
+380;"VV Clinic";"VV Clinic";1
+381;"ROC Clinic";"ROC Clinic";1
+382;"IUN Clinic";"IUN Clinic";1
+383;"ROC Clinic";"ROC Clinic";1
+512;"Evansville Clinic";"Evansville Clinic";2
+513;"Admin";"Admin";2
+514;"IUN Clinic";"IUN Clinic";1
+515;"Research";"Research";6
+516;"Deaconess Clinic";"Deaconess Clinic";1
+517;"IUN Clinic";"IUN Clinic";1
+518;"Lowell Clinic";"Lowell Clinic";2
+519;"Lowell Clinic";"Lowell Clinic";1
+520;"Admin";"Admin";2
+521;"ROC OR";"ROC OR";4
+522;"VV Clinic";"VV Clinic";1
